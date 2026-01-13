@@ -1,0 +1,10 @@
+perl
+
+
+my-digital-store/
+│
+├─ index.html        # Main homepage / product listing
+├─ style.css         # Basic styling
+├─ script.js         # Frontend JS for cart actions
+├─ products.json     # List of your digital products
+└─ server.js         # Node.js backend (for payments & downloads)

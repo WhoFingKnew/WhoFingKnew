@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Digital Store</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>My Digital Store</h1>
+    <div id="cart">Cart: $<span id="total">0</span> <button id="checkoutBtn">Checkout</button></div>
+  </header>
+
+  <main id="products"></main>
+
+  <script src="script.js"></script>
+</body>
+</html>

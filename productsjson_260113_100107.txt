@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Romantic Poetry eBook",
+    "price": 10,
+    "file": "/downloads/romantic-poetry.pdf",
+    "image": "/images/poetry.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Printable Art Design",
+    "price": 5,
+    "file": "/downloads/art-design.png",
+    "image": "/images/art.jpg"
+  }
+]
